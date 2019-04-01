@@ -14,9 +14,9 @@ module.exports = {
         "dialect": "postgres"
     },
     "production": {
-        "username": `${process.env.DB_USERNAME}`,
-        "password": `${process.env.DB_PASSWORD}`,
-        "database": "rest_api",
+        "username": `xrfmfffthfbmpy`,
+        "password": `fd9dc7610b184ad5724cea08f8d8edeef72a3411ee9cf478d48d2062a169f026`,
+        "database": "d94of7ch93hm64",
         "host": "127.0.0.1",
         "dialect": "postgres"
     }
