@@ -11,3 +11,4 @@ Route | HTTP | Header(s) | Body | Description |
 /api/signup | DELETE | none | name:string (Required), password:string (Required), email:string (Required), role:string (Required)  | Sign Up with new user info |
 /api/signin | DELETE | none | none | Sign in and get an access token based on credentials |
 
+`https://cherry-crisp-62677.herokuapp.com`
